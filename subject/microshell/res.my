@@ -1,0 +1,107 @@
+[1;32mCompile
+[1;36mTest
+[0m/bin/ls
+[0;31mmicroshel 27142 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27142 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27142 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/cat microshell.c
+[0;31mmicroshel 27157 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27157 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27157 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls microshell.c
+[0;31mmicroshel 27172 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27172 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27172 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls salut
+[0;31mmicroshel 27187 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27187 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27187 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m;
+[0;31mmicroshel 27202 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27202 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27202 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m; ;
+[0;31mmicroshel 27216 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27216 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27216 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m; ; /bin/echo OK
+[0;31mmicroshel 27230 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27230 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27230 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m; ; /bin/echo OK ;
+[0;31mmicroshel 27244 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27244 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27244 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m; ; /bin/echo OK ; ;
+[0;31mmicroshel 27258 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27258 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27258 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m; ; /bin/echo OK ; ; ; /bin/echo OK
+[0;31mmicroshel 27272 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27272 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27272 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls | /usr/bin/grep microshell
+[0;31mmicroshel 27286 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27286 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27286 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls | /usr/bin/grep microshell | /usr/bin/grep micro
+[0;31mmicroshel 27302 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27302 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27302 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls | /usr/bin/grep microshell | /usr/bin/grep micro | /usr/bin/grep shell | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro
+[0;31mmicroshel 27319 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27319 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27319 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls | /usr/bin/grep microshell | /usr/bin/grep micro | /usr/bin/grep shell | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep micro | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell | /usr/bin/grep shell
+[0;31mmicroshel 27371 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27371 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27371 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls ewqew | /usr/bin/grep micro | /bin/cat -n ; /bin/echo dernier ; /bin/echo
+[0;31mmicroshel 27461 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27461 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27461 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls | /usr/bin/grep micro | /bin/cat -n ; /bin/echo dernier ; /bin/echo ftest ;
+[0;31mmicroshel 27480 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27480 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27480 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/echo ftest ; /bin/echo ftewerwerwerst ; /bin/echo werwerwer ; /bin/echo qweqweqweqew ; /bin/echo qwewqeqrtregrfyukui ;
+[0;31mmicroshel 27499 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27499 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27499 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls ftest ; /bin/ls ; /bin/ls werwer ; /bin/ls microshell.c ; /bin/ls subject.fr.txt ;
+[0;31mmicroshel 27518 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27518 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27518 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/ls | /usr/bin/grep micro ; /bin/ls | /usr/bin/grep micro ; /bin/ls | /usr/bin/grep micro ; /bin/ls | /usr/bin/grep micro ;
+[0;31mmicroshel 27537 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27537 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27537 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/cat subject.fr.txt | /usr/bin/grep a | /usr/bin/grep b ; /bin/cat subject.fr.txt ;
+[0;31mmicroshel 27559 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27559 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27559 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/cat subject.fr.txt | /usr/bin/grep a | /usr/bin/grep w ; /bin/cat subject.fr.txt ;
+[0;31mmicroshel 27577 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27577 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27577 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/cat subject.fr.txt | /usr/bin/grep a | /usr/bin/grep w ; /bin/cat subject.fr.txt
+[0;31mmicroshel 27595 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27595 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27595 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m/bin/cat subject.fr.txt ; /bin/cat subject.fr.txt | /usr/bin/grep a | /usr/bin/grep b | /usr/bin/grep z ; /bin/cat subject.fr.txt
+[0;31mmicroshel 27613 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27613 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27613 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m; /bin/cat subject.fr.txt ; /bin/cat subject.fr.txt | /usr/bin/grep a | /usr/bin/grep b | /usr/bin/grep z ; /bin/cat subject.fr.txt
+[0;31mmicroshel 27633 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27633 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27633 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0mblah | /bin/echo OK
+[0;31mmicroshel 27647 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27647 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27647 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0mblah | /bin/echo OK ;
+[0;31mmicroshel 27663 mondrew  rtd    DIR   8,48     4096      2 /
+microshel 27663 mondrew  mem    REG   8,48  2030544 164347 /lib/x86_64-linux-gnu/libc-2.27.so
+microshel 27663 mondrew  mem    REG   8,48   170960 164319 /lib/x86_64-linux-gnu/ld-2.27.so
+[0m[1;32mDone[0m
